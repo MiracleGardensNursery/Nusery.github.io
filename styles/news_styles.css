@@ -881,6 +881,13 @@ section
 	border-radius: 5px;
 	padding: 10px 10px 10px 10px;
 }
+.news_post_text1
+{
+	margin-top: 27px;
+	background-image: url("/images/777.jpg");
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+}
 .news_post_button
 {
 	width: 188px;
