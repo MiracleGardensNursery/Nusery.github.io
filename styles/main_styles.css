@@ -958,6 +958,14 @@ section
 	color: #303030;
 	margin-top: -12px;
 }
+.card-text1
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #303030;
+	margin-top: 12px;
+	
+}
 .price_box
 {
 	width: 100%;
