@@ -750,7 +750,7 @@ section
 
 .popular
 {
-
+	
 }
 .course_boxes
 {
@@ -799,9 +799,9 @@ section
 }
 .card-text
 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 500;
-	color: #a5a5a5;
+	color: #161616;
 	margin-top: -12px;
 }
 .price_box
