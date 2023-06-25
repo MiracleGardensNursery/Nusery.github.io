@@ -851,6 +851,11 @@ section
 .page_section
 {
 	padding-top: 117px;
+	padding-bottom: 37px;
+}
+.page_section1
+{
+
 	padding-bottom: 117px;
 }
 .section_title
@@ -914,6 +919,10 @@ section
 {
 	margin-top: 68px;
 }
+.popular1
+{
+	margin-top: 10px;
+}
 .course_boxes
 {
 	margin-top: 68px;
@@ -921,7 +930,7 @@ section
 .card
 {
 	display: block;
-	background: #f8f9fb;
+	background: #ffffff;
 	border: none;
 }
 .card-img-top
@@ -957,6 +966,7 @@ section
 	font-weight: 500;
 	color: #303030;
 	margin-top: -12px;
+	
 }
 .card-text1
 {
@@ -964,7 +974,17 @@ section
 	font-weight: 500;
 	color: #303030;
 	margin-top: 12px;
-	
+	margin-bottom: 15px;
+	background-image: url("/images/888.jpg");
+}
+.card-text1
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #303030;
+	margin-top: 12px;
+	margin-bottom: 15px;
+	background-image: url("/images/999.jpg");
 }
 .price_box
 {
