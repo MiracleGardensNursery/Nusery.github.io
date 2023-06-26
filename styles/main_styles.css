@@ -1587,6 +1587,9 @@ form label,
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+#complaint {
+	height: 100px;
+}
 form label,
 form legend {
   font-size: 0.825rem;
