@@ -986,6 +986,15 @@ section
 	margin-bottom: 15px;
 	background-image: url("/images/999.jpg");
 }
+.card-text3
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #303030;
+	margin-top: 12px;
+	margin-bottom: 15px;
+	background-image: url("/images/666.jpg");
+}
 .price_box
 {
 	width: 100%;
