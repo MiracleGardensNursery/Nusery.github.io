@@ -994,6 +994,9 @@ section
 	margin-top: 12px;
 	margin-bottom: 15px;
 	background-image: url("/images/666.jpg");
+	margin-left: 7px;
+	margin-right: 7px;
+	text-align: justify;
 }
 .price_box
 {
