@@ -833,6 +833,14 @@ section
 	margin-bottom: 7px;
 	text-align: center;
 }
+.hero_box_titleq
+{
+	font-size: 18px;
+	font-weight: 500;
+	color: #FFFFFF;
+	margin-bottom: 7px;
+	text-align: center;
+}
 .hero_box_link
 {
 	font-size: 12px;
