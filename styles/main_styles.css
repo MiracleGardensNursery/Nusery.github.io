@@ -1765,3 +1765,33 @@ height: 50px;
 	float: left;
 	border: solid 1px;
 }
+.table2 {
+	width: 100%;
+	height: 400px;
+	margin-top: 30px;
+}
+.t2_1 {
+	width: 100%;
+	height: 50px;
+	background: #ffbf6c;
+border: solid 1px;
+}
+.t2_2,.t2_3,.t2_4,.t2_5,.t2_6,.t2_7,.t2_8 {
+	width: 100%;
+	height: 50px;
+	background: #bebdff;
+}
+.t2_2_1,.t2_3_1,.t2_4_1,.t2_5_1,.t2_6_1,.t2_7_1,.t2_8_1 {
+	width: 25%;
+	height: 50px;
+	float: left;
+	border: solid 1px;
+}
+.t2_2_2,.t2_2_3,.t2_2_4,.t2_2_5,.t2_2_6,.t2_3_2,.t2_3_3,.t2_3_4,.t2_3_5,.t2_3_6,.t2_4_2,.t2_4_3,.t2_4_4,.t2_4_5,.t2_4_6,.t2_5_2,.t2_5_3,.t2_5_4,.t2_5_5,.t2_5_6,.t2_6_2,.t2_6_3,.t2_6_4,.t2_6_5,.t2_6_6,.t2_7_2,
+.t2_7_3,.t2_7_4,.t2_7_5,.t2_7_6,.t2_8_2,.t2_8_3,.t2_8_4,.t2_8_5,.t2_8_6 {
+	width: 15%;
+	height: 50px;
+	float: left;
+	border: solid 1px;
+	font-size: 14px;
+}
