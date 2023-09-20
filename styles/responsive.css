@@ -532,6 +532,13 @@ border-radius: 100px;
 	border: solid 1px;
 	font-size: 13px;
 }
+.t2_2_1,.t2_3_1,.t2_4_1,.t2_5_1,.t2_6_1,.t2_7_1,.t2_8_1 {
+	width: 25%;
+	height: 50px;
+	float: left;
+	border: solid 1px;
+	font-size: 15px;
+}
 	.header
 	{
 		height: 60px;
