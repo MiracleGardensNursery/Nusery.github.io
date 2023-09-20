@@ -524,6 +524,14 @@ border-radius: 100px;
 
 @media only screen and (max-width: 479px)
 {
+	.t2_2_2,.t2_2_3,.t2_2_4,.t2_2_5,.t2_2_6,.t2_3_2,.t2_3_3,.t2_3_4,.t2_3_5,.t2_3_6,.t2_4_2,.t2_4_3,.t2_4_4,.t2_4_5,.t2_4_6,.t2_5_2,.t2_5_3,.t2_5_4,.t2_5_5,.t2_5_6,.t2_6_2,.t2_6_3,.t2_6_4,.t2_6_5,.t2_6_6,.t2_7_2,
+.t2_7_3,.t2_7_4,.t2_7_5,.t2_7_6,.t2_8_2,.t2_8_3,.t2_8_4,.t2_8_5,.t2_8_6 {
+	width: 15%;
+	height: 50px;
+	float: left;
+	border: solid 1px;
+	font-size: 13px;
+}
 	.header
 	{
 		height: 60px;
