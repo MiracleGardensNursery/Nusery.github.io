@@ -1699,27 +1699,69 @@ form select {
 .table1 {
 	width: 100%;
 	height: 250px;
-	background: #db5246;
+	
 }
 .t1_1 {
 	width: 100%;
 height: 50px;
-background: #ffb606;
+background: #ffbf6c;
+border: solid 1px;
 }
 .t1_2,.t1_3,.t1_4,.t1_5 {
 	width: 100%;
 height: 50px;
-background: #06ff30;
+
+
 }
 .t1_2_1,.t1_2_2,.t1_2_3 {
-	width: 33.3%;
+	width: 33.334%;
 	height: 50px;
-	background: #e219c7;
+	background: #bebdff;
 	float: left;
+	border: solid 1px;
 }
-.t1_2_2_1,.t1_2_2_2,.t1_2_3_1,.t1_2_3_2 {
+.t1_2_2_1{
 	width: 100%;
 	height: 25px;
-	background: #0719b8;
-	border: solid 2px;
+	background: #ffbf6c;
+	
+}
+.t1_2_2_2{
+	width: 100%;
+	height: 25px;
+	
+	
+}
+.t1_2_3_1{
+	width: 100%;
+	height: 25px;
+	background: #ffbf6c;
+	
+}
+.t1_2_3_2 {
+	width: 100%;
+	height: 25px;
+	
+	
+}
+.t1_3_1,.t1_3_2,.t1_3_3{
+	width: 33.334%;
+	height: 50px;
+	background: #bebdff;
+	float: left;
+	border: solid 1px;
+}
+.t1_4_1,.t1_4_2,.t1_4_3{
+	width: 33.334%;
+	height: 50px;
+	background: #bebdff;
+	float: left;
+	border: solid 1px;
+}
+.t1_5_1,.t1_5_2,.t1_5_3{
+	width: 33.334%;
+	height: 50px;
+	background: #bebdff;
+	float: left;
+	border: solid 1px;
 }
