@@ -681,16 +681,17 @@ section
 }
 .hero_slide_content
 {
-	max-width: 80%;
-	-webkit-transform: translateY(30px);
-	-moz-transform: translateY(30px);
-	-ms-transform: translateY(30px);
-	-o-transform: translateY(30px);
-	transform: translateY(30px);
+	max-width: 60%;
+	-webkit-transform: translateY(70px);
+	-moz-transform: translateY(70px);
+	-ms-transform: translateY(70px);
+	-o-transform: translateY(70px);
+	transform: translateY(70px);
 }
 .hero_slide_content h1
 {
-	font-size: 50px;
+	margin-top: 20px;
+	font-size: 45px;
 	font-weight: 400;
 	color: #000000;
 }
