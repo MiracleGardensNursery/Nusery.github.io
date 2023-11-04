@@ -1086,7 +1086,6 @@ section
 
 .register
 {
-	margin-top: 10px;
 	width: 100%;
 }
 .register_section
@@ -1467,7 +1466,7 @@ input:last-of-type
 .footer
 {
 	width: 100%;
-	
+	margin-top: 30px;
 	background: #1a1a1a;
 }
 .footer .section_title h1
