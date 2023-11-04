@@ -617,6 +617,10 @@ border-radius: 100px;
 	.person {
 		max-width: 5%;
 	}
+	.info-title1 {
+		text-align:left;
+		margin-top: 70px;
+	}
 }
 
 /************
