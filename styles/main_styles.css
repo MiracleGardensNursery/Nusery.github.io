@@ -1159,6 +1159,9 @@ section
 {
 	width: 522px;
 }
+.txts {
+	font-size: 25px;
+}
 .search_background1
 {
 	position: absolute;
@@ -1187,6 +1190,7 @@ section
 {
 	color: #1a1a1a;
 	margin-top: 20px;
+	font-size: 45px;
 }
 
 /*********************************
