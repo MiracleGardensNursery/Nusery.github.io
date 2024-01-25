@@ -48,6 +48,9 @@
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
+.logo_img {
+	max-width: 100px;
+}
 .tel {
 	position: fixed;
 	top: 550px;

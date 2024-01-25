@@ -51,6 +51,9 @@
 .gim {
 	max-width: 100%;
 }
+.logo_img {
+	max-width: 100px;
+}
 .tel {
 	position: fixed;
 	top: 550px;
