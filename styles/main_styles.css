@@ -82,6 +82,23 @@ body
 	max-width: 9%;
 	float: left;
 }
+.text_activiti {
+	font-size: 25px;
+	text-align: center;
+	
+}
+.search_title2 {
+	font-size: 40px;
+	margin-top: 90px;
+	font-family: Kablammo-Regular;
+}
+@font-face {
+    font-family: 'Kablammo-Regular'; /* Название, которое вы будете использовать */
+    src: url('../doc/Kablammo-Regular.ttf') format('truetype'); /* Путь к файлу */
+       
+    font-weight: normal;
+    font-style: normal;
+}
 div
 {
 	display: block;
@@ -1199,6 +1216,7 @@ section
 	color: #1a1a1a;
 	margin-top: 20px;
 	font-size: 45px;
+	font-family: Kablammo-Regular;
 }
 
 /*********************************
